@@ -12,6 +12,7 @@
 * Prompt Engineering
   * [Ask me anything: A simple strategy for prompting language models](https://arxiv.org/pdf/2210.02441)
   * [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/pdf/2312.16171)
+  * [Automatic Chain-of-thought Prompting large language models](https://arxiv.org/pdf/2210.03493)
   * https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai-2023
   * https://www.linkedin.com/learning/prompt-engineering-and-ai-agents-with-chatgpt
   * https://www.linkedin.com/learning/paths/develop-your-prompt-engineering-skills
