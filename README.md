@@ -5,6 +5,7 @@
   * https://www.linkedin.com/learning/introduction-to-large-language-models
   * https://www.linkedin.com/learning/generative-ai-working-with-large-language-models
   * [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916)
+  * [3 Ways To Improve Your Large Language Model](https://newsletter.maartengrootendorst.com/p/3-ways-to-improve-your-llm)
 * LangChain
   * https://www.linkedin.com/learning/level-up-llm-applications-development-with-langchain-and-openai
 * LangGraph
