@@ -25,15 +25,15 @@
   * https://www.linkedin.com/learning/grounding-techniques-for-llms/understanding-grounding-techniques-for-llms
   * https://arxiv.org/abs/2404.02935
   * https://llmshowto.com/blog/llm-test-frameworks
-* Generation
-  * [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) 
 * Fine-Tunning
   * https://www.toptal.com/artificial-intelligence/llm-data-labeling
   * https://platform.openai.com/docs/guides/fine-tuning 
-* Foundations (If you want to learn the theory behind the hoods)
-  * https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training
-  * https://www.linkedin.com/learning/large-language-models-text-classification-for-nlp-using-bert
-  * https://arxiv.org/abs/1706.03762
-  * https://magazine.sebastianraschka.com/p/building-a-gpt-style-llm-classifier
-  * https://www.manning.com/books/build-a-large-language-model-from-scratch
+
+## Foundations (If you want to learn the theory behind the hoods)
+* https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training
+* https://www.linkedin.com/learning/large-language-models-text-classification-for-nlp-using-bert
+* https://arxiv.org/abs/1706.03762
+* https://magazine.sebastianraschka.com/p/building-a-gpt-style-llm-classifier
+* https://www.manning.com/books/build-a-large-language-model-from-scratch
+* [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) 
 
