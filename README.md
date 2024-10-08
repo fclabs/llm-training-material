@@ -25,6 +25,8 @@
   * https://www.linkedin.com/learning/grounding-techniques-for-llms/understanding-grounding-techniques-for-llms
   * https://arxiv.org/abs/2404.02935
   * https://llmshowto.com/blog/llm-test-frameworks
+* Generation
+  * [A Visual Guide to Mixture of Experts (MoE)](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mixture-of-experts) 
 * Fine-Tunning
   * https://www.toptal.com/artificial-intelligence/llm-data-labeling
   * https://platform.openai.com/docs/guides/fine-tuning 
